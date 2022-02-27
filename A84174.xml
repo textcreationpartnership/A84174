@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration and standard of the levellers of England; delivered in a speech to his Excellency the Lord Gen. Fairfax, on Friday last at White-Hall, by Mr. Everard, a late member of the Army, and his prophesie in reference thereunto; shewing what will befall the nobility and gentry of this nation, by their submitting to community; with their invitation and promise unto the people, and their proceedings in Windsor Park, Oatlands Park, and severall other places; also, the examination and confession of the said Mr. Everard before his Excellency, the manner of his deportment with his hat on, and his severall speeches and expressions, when he was commanded to put it off. Together with a list of the severall regiments of horse and foot that have cast lots to go for Ireland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84174</idno>
+            <idno type="STC">Wing E3544</idno>
+            <idno type="STC">Thomason E551_11</idno>
+            <idno type="STC">ESTC R205689</idno>
+            <idno type="EEBO-CITATION">99864994</idno>
+            <idno type="PROQUEST">99864994</idno>
+            <idno type="VID">117227</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84174)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117227)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E551[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration and standard of the levellers of England; delivered in a speech to his Excellency the Lord Gen. Fairfax, on Friday last at White-Hall, by Mr. Everard, a late member of the Army, and his prophesie in reference thereunto; shewing what will befall the nobility and gentry of this nation, by their submitting to community; with their invitation and promise unto the people, and their proceedings in Windsor Park, Oatlands Park, and severall other places; also, the examination and confession of the said Mr. Everard before his Excellency, the manner of his deportment with his hat on, and his severall speeches and expressions, when he was commanded to put it off. Together with a list of the severall regiments of horse and foot that have cast lots to go for Ireland.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for G. Laurenson,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Aprill 23. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Everard, William.</term>
+               <term>Levellers --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Ireland --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117227:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <p>THE Declaration and Standard Of the <hi>Levellers</hi> of <hi>England;</hi> Delivered in a Speech to his Excellency the Lord Gen. <hi>Fairfax,</hi> on <hi>Friday</hi> laſt at White-Hall, by Mr. <hi>Everard,</hi> a late Member of the Army, and his Propheſie in reference thereunto; ſhewing what will befall the Nobility and Gentry of this Nation, by their ſubmitting to community; With their invitation and promiſe unto the people, and their proceedings in <hi>Windſor</hi> Park, <hi>Oatlands</hi> Park, and ſeverall other places; alſo, the Examination and confeſſion of the ſaid Mr. <hi>Everard</hi> before his Excellency, the manner of his deportment with his Hat on, and his ſeverall ſpeeches and expreſſions, when he was commanded to put it off. Together with a Liſt of the ſeverall Regiments of Horſe and Foot that have caſt Lots to go for <hi>Ireland.</hi>
+            </p>
+            <figure/>
+            <p>Imprinted at <hi>London,</hi> for <hi>G. Laurenſon, Aprill</hi> 23. 1649.</p>
+            <pb facs="tcp:117227:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117227:3"/>
+            <!-- PDF PAGE 10 -->
+            <pb n="1" facs="tcp:117227:3"/>
+            <!-- PDF PAGE 10 -->
+            <head>A DECLARATION <hi>OF THE</hi> Levellers, Delivered in a Speech to his Excellency the Lord Generall <hi>Fairfax,</hi> by Mr. <hi>Everard,</hi> a late member of the Army.</head>
+            <p>
+               <seg rend="decorInit">U</seg>Pon the 19 of this inſtant <hi>Aprill,</hi> 1649. the Councell of State received infor<g ref="char:EOLhyphen"/>mation that one Mr. <hi>Everard</hi> formerly of the Army, who calls himſelf profit, with others, came ſeverall dayes laſt week to St. <hi>Georges</hi> Hill in Surrey, and began to dig, then to ſowing the ground with Parſnips, Carrets, and Beanes; their number increaſe every day, they began with five, and are now about fifty, but they ſay they wil ſhortly be above five thouſand: They have prepared
+<pb n="2" facs="tcp:117227:4"/>
+               <!-- PDF PAGE 11 -->
+Seed Corn, and intend to plow up the ground in <hi>Oat<g ref="char:EOLhyphen"/>lands</hi> park, <hi>Windſor</hi> park, and other places, and to levell the pales, &amp;c. inviting all to come in, and promiſe them meat, and drink, and clothes, declaring to the people, that they will ſhortly make them come up to the Hills and work; and threaten the people, that if they let their Cattell come in amongſt them, they will cut off their uſurping heads, and the four-footed legs. For,
+<q>
+                  <l>Our thoughts are lofty, proud, and full of ire,</l>
+                  <l>We can be good, or bad, as times require.</l>
+               </q>
+            </p>
+            <p>Upon the 20, of this inſtant, the ſaid Mr. <hi>Everard</hi> and one <hi>Wistanly</hi> came to White-Hall to give his Ex<g ref="char:EOLhyphen"/>cellency an account of their proceedings in digging up the grounds on St. <hi>Georges</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as aforeſaid, <hi>Everard,</hi> declared, That he was of the Race of the Jewes, &amp; that all the liberties of the people were loſt by the coming in of <hi>William</hi> the Conquerour and that ever ſince, the people of God have lived unde<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tyranny and oppreſſi<g ref="char:EOLhyphen"/>on, worſe then that of our forefathers under the Egip<g ref="char:EOLhyphen"/>tians.</p>
+            <p>But now the time of deliverance was at hand, and God would bring his people out of this ſavery and reſtore them their freedoms in the enjoying the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and benefits of the Earth: And that there had lat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly appeared a Viſion to him, which bade him <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>dig, and plow the Earth and rec<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive the</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> And that their intent is to <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ore the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> former Condition: And that as God <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>make the barren ground fr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tfull.</hi> So <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> did, was to renew the ancient Com<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Joying the fruits of the Earth, and to <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nefits thereof to the poor and Needy <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gry,
+<pb n="3" facs="tcp:117227:4"/>
+               <!-- PDF PAGE 11 -->
+and to cloath the naked; And that they intend not to meddle with any mans <hi>propriety,</hi> nor to breake down any pailes or Incloſures, but onely to meddle with what was common and untilled, and to make it fruitfull for the uſe of man. But that the time would ſuddenly be that all men ſhould willingly come in, and give up their Lands and Eſtates, and willing to ſubmit to this Community; and for thoſe which ſhall come in, and work, they ſhall have meat, drink, and clothes, which is all that is neceſſary for the life of man; and that for money there was not any need of it, nor of any clothes more then to cover their nakedneſſe; and that they will not defend themſelvei by arms, but will ſub<g ref="char:EOLhyphen"/>mit unto Authority, and wait till the promiſed oppor<g ref="char:EOLhyphen"/>tunity be offered, which they conceived to be neere at hand: and that as their fore-fathers lived in Tents, ſo it would be ſuitable to their condition now to live in the ſame.</p>
+            <p>Here (they ſay) they are reſolved to ſtand, and do account their fore fathers principles, a perfect Rule and Standard for them to walk by.</p>
+            <p>It is obſerveable, That while <hi>Everard</hi> and <hi>Wiſtanley</hi> ſtood before the Lord Generall they ſtood with their Hats on, and being demanded the reaſon, ſaid, <hi>Hee was but their fellow Creature:</hi> Being askt the meaning of that place, <hi>Give honour to whom honour is due.</hi> They ſee<g ref="char:EOLhyphen"/>med to be offended, and ſaid, <hi>That their mouths ſhould be ſtopped who gave them that offence.</hi>
+            </p>
+            <pb n="2" facs="tcp:117227:5"/>
+            <!-- PDF PAGE 12 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:117227:5"/>
+            <!-- PDF PAGE 12 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <p>
+               <pb n="4" facs="tcp:117227:6"/>
+               <!-- PDF PAGE 13 -->WHereas by order of the late Lord Major of the City of <hi>London,</hi> and the Commiſſioners, a precept or order came to the Deputy and Common-councell men of the Ward of <hi>Walbrook,</hi> requiring them to call to their aſſiſtance, ſuch able perſons as they ſhall think meet, to aſſeſs upon the Inhabitants of their Ward, the ſum of 50 <abbr>l.</abbr> which was in arrears of the 4. former aſſeſments of the 12, 10, 6, &amp; 4 months, for the L. Gen. <hi>Fairfax</hi> his army, the Common counſell men in obedience to that precept, did call to aſſiſtance 8. other perſons Inhabitants in their Ward, for the more qual rating and aſſeſſing of the aforeſaid ſum, and af<g ref="char:EOLhyphen"/>er long and ſerious conſultation and debate, did finde that the real eſtates, <hi>viz.</hi> the Rents of houſes had not been rated at all, or not conſiderable in thoſe 4 aſſeſſe<g ref="char:EOLhyphen"/>ments; did therefore adjudge it, to be juſt to lay ſome conſiderable part of the 500. <abbr>l.</abbr> upon the aforeſaid Rents, and they alſo finding that the Aſſeſſors in thoſe 4 aſſeſments had exceeding overrated the poor people of ſmall eſtates, and alſo had exceedingly under rated themſelves, and the men of great Eſtates in the Ward. The now Common councell men finding this great partiality and inequality, did Judge it juſt before God, and all juſt men, to lay the greateſt part of that which remained and not laid on the real eſtates, upon thoſe of great eſtates that had bin ſo much under-rated, that if the rich men had bin rated, proportionably to thoſe of ſmall eſtates, there would have bin little or none of thoſe arrears, judging it very unjuſt and contrary to Gods command, to and oppreſſion to oppreſſion, alſo contrary to the true intent and meaning of the Ordinan<g ref="char:EOLhyphen"/>ces of parl. Having taken this courſe for the more ſpe<g ref="char:EOLhyphen"/>dy
+<pb n="5" facs="tcp:117227:6"/>
+               <!-- PDF PAGE 13 -->
+getting in of the aforeſaid arrears, &amp; alſo to prevent future arrears, did finiſh the books, and according to order ſent them in. But upon the complaint of ſome of the War<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, together with ſuch of the Comoncoun<g ref="char:EOLhyphen"/>cel as were aſſeſſors of thoſe unequal aſſeſments, to the Lord Mayor and Commiſ. We the now aſſeſſors were ſent for before them, and notwithſtanding we made it clear to the commiſ. that we had ſo aſſeſſed it as was moſt agreeable to Gods command to take of heavy burdens, &amp; to relieve the oppreſſed, which we alſo de<g ref="char:EOLhyphen"/>clared was the true intent and meaning of the Ordi. of parl. &amp; alſo diſcharge our truſt; yet were we overaw<g ref="char:EOLhyphen"/>ed and commanded to take the book &amp; alter it, to take off from the rich, and to lay it on ſuch as wee knew to be over rated before, and yet had paid which we judg<g ref="char:EOLhyphen"/>ed unreaſonable, we alſo told the Aldermen, that their evill example in rating themſelves ſo low in every aſſeſment upon occaſion that no rich men in any Ward, would be rated proportionably to the eſtates, &amp; did plead &amp; do ſtill plead that an Alderman was but ſo much, &amp; ſhould they be rated equal<g ref="char:EOLhyphen"/>ly with, or more then an Ald. We alſo told them that we did expect that as it was their duty ſo they would have given us incommand all the aſſeſſors of every Ward in London, to have conſidered ſuch as had bin over-rated to have eaſed them, &amp; alſo ſuch as had been under rated, to have laid the more on them. This was much ſtood upon and by ſome anſwred with bitter expreſſions, and angry countenances; but our concluſi<g ref="char:EOLhyphen"/>ons was with them thus, That we did hope in the ſincerity o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our hearts we had obeyed Gods <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> demand, in taking oft hea<g ref="char:EOLhyphen"/>vy burdens and in relieving of ſome of the oppreſſed and let<g ref="char:EOLhyphen"/>ting others that were more oppreſſed go free, and that if they (the Commiſſioners) did lay thoſe burdens on again, the ſin ſhould lie at their doors, and they ſhould anſwer for if we had di<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>charged our truſt. We know it to be juſt, that he that is worth 1000. <abbr>l.</abbr> ſhould be rated ten times ſo much as hee that
+<pb n="6" facs="tcp:117227:7"/>
+               <!-- PDF PAGE 14 -->
+is worth 100. <abbr>l.</abbr> and ſo proportionably from the leaſt eſtate to the greateſt, and he that hath the greateſt eſtate hath the grea<g ref="char:EOLhyphen"/>teſt advantage by this Rule of proportion, and if the Wards men be wiſe in their elections of common councell men, let them look upon ſuch as are godly, wiſe men, of the middle rank of men, and make choice of ſuch men they will find will act moſt and beſt for them and the publique. What injuſtice, unequality, and oppreſſion hath bin uſed and exerciſed upon the poor and men of ſmall eſtates in all former aſſeſments, the like hath been in a great meaſure in every Ward in levying men and armes to attend their Captains and Commanders in the Trayned Bands, as an Alderman, or great rich man to ſend three men and peradventure ſends but one, it may be none at all; when a poor man of ſmall eſtate ſhall go forth, and find his own armes; this is alſo a great injuſtice and op<g ref="char:EOLhyphen"/>preſſion,</p>
+            <p>Letters from Sir <hi>Charles Coot</hi> in <hi>Ireland,</hi> ſay That he is ſtraightly beſieged in <hi>London-Derry,</hi> and unleſſe hee have ſpeedy relief, he wil be forced to ſurrender upon mercy. <hi>Dublin</hi> is in great diſtreſs, and col. <hi>Monk</hi> in the North even at the laſt gaſp: But ſeveral Regiments of Horſe and Foot are now deſigned for their relief, and the Councel of the Army to avoid all differences, re<g ref="char:EOLhyphen"/>ſolved, that lots ſhould be caſt for thoſe Regiments that were to goe, and accordingly on Friday laſt, the Colonels of each Regiments caſting, the Lots fel upon thoſe Regiments to go, <hi>viz.</hi>
+            </p>
+            <p>Of Foot, Colonel <hi>Ewers,</hi> Col. <hi>Cooks,</hi> Col. <hi>Deans,</hi> Col. <hi>Hewſons.</hi> Of Horſe, Commiſſary Gen. <hi>Ireton,</hi> Major Gen. <hi>Lamberts,</hi> Col. <hi>Scroops,</hi> Col. <hi>Harloes.</hi>
+            </p>
+            <p>Of Col. <hi>Okey's</hi> Dragoons, five Troops, <hi>viz.</hi> Major <hi>Abbots,</hi> Capt. <hi>Mercers,</hi> Capt. <hi>Fulchars,</hi> Cap. <hi>Boltars,</hi> and Captain <hi>Garlands.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
